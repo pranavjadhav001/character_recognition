@@ -14,3 +14,7 @@ Created a character recognition deep learning based pipeline which includes scri
 <img src="https://github.com/pranavjadhav001/character_recognition/blob/main/images/19.png" width="40" height="200">
 <img src="https://github.com/pranavjadhav001/character_recognition/blob/main/images/84.png" width="40" height="200">
 <img src="https://github.com/pranavjadhav001/character_recognition/blob/main/images/download.png" width="200" height="200">
+
+## Training
+For better results, trained on sythetic + char74k Dataset(doesnt have special chars)
+http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
